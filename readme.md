@@ -8,7 +8,7 @@ At codebois.dev, we believe in the power of clean, efficient, and innovative web
 
 ## The Team
 
-### 1. MaciejKag
+### 1. Maciejkag
 
 - GitHub: [maciejkag](https://github.com/maciejkag)
 - Role: Full-Stack Developer
@@ -23,7 +23,7 @@ At codebois.dev, we believe in the power of clean, efficient, and innovative web
 ### 3. Blekwek
 
 - GitHub: [blekwek](https://github.com/blekwek)
-- Role: No one
+- Role: Buys old xbox consoles
 - Bio: Can root phones
 
 ## Technologies We Love
