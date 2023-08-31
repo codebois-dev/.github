@@ -14,7 +14,7 @@ At codebois.dev, we believe in the power of clean, efficient, and innovative web
 - Role: Full-Stack Developer
 - Bio: Maciej is a coding enthusiast with a knack for creating seamless user experiences. With a strong foundation in both front-end and back-end development, Maciej ensures that our web applications are not only visually appealing but also robust and efficient under the hood.
 
-### 2. Pingwiniu
+### 2. Pingwinek
 
 - GitHub: [pingwiniu](https://github.com/pingwiniu)
 - Role: Full-Stack Developer
@@ -40,11 +40,11 @@ At codebois.dev, we believe in the power of clean, efficient, and innovative web
 
 ## Getting Started
 
-If you're interested in collaborating with us, have a project idea, or simply want to learn more about our work, feel free to reach out to any of our team members or contact us at julianzkw1@gmail.com We're excited to hear from you!
+If you're interested in collaborating with us, have a project idea, or simply want to learn more about our work, feel free to reach out to any of our team members or contact us at julian.zientkowski@gmail.com We're excited to hear from you!
 
 ## Project Samples
 
-Check out our [portfolio](https://codebois.dev/) to see some of the projects we've worked on. Each project showcases our expertise in various web technologies and our commitment to delivering top-notch solutions.
+Check out our [website](https://codebois.dev/) to see some of the projects we've worked on. Each project showcases our expertise in various web technologies and our commitment to delivering top-notch solutions.
 
 ## Stay Connected
 
