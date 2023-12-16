@@ -46,10 +46,6 @@ If you're interested in collaborating with us, have a project idea, or simply wa
 
 Check out our [website](https://codebois.dev/) to see some of the projects we've worked on. Each project showcases our expertise in various web technologies and our commitment to delivering top-notch solutions.
 
-## Stay Connected
-
-Stay up-to-date with our latest projects, insights, and web development trends by following us on our GitHub!
-
 ---
 
 Thank you for considering codebois.dev for your web development needs. We're here to turn your digital dreams into reality!
